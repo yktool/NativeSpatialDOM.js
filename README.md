@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ---
 
-## 🎮 Programmatic Focus Control
+## Programmatic Focus Control
 
 To move focus programmatically, use the `focusNext()` method.
 

@@ -90,7 +90,3 @@ spatialDOM.focusNext('down');
 * **`destroy()`**: Cleans up all event listeners, timers, and Mutation/ResizeObservers to free memory.
 
 ---
-
-## License
-
-Copyright (c) dai_fuku
